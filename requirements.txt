@@ -1,0 +1,7 @@
+requirements-
+--opencv
+--matplotlib
+--numpy
+--math
+to run 
+$python detect_object.py
